@@ -1,15 +1,38 @@
-### Hi there 👋 I'm kk!
+### 你好 👋
 
-- 🔭 I’m a Front-end developer (Vue3)
-- 🌱 Currently exploring animation & visualization
-- ⚡ Fun fact: I like building dashboards
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/your-github-username)
+[![Email](https://img.shields.io/badge/-Email-c144310?style=flat&logo=Gmail&logoColor=white)](mailto:10510521010110@qq.com)
 
-![kk's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuxinglong&show_icons=true)
+欢迎来到我的 Github 主页！
+我是 **kk**，一名专注于 **Vue · 可视化 · GIS · 小程序 ·** 的前端开发者。
 
-### 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=vue,react,Node.js,express,flutter,ts,js,html,css" />
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
-### 🚀 Featured Projects
-- 🧩 [数字工厂大屏可视化]([https://github.com/chuxinglong/xiaok])
-- 📡 数据集成管理系统 (Vue3 + TS)
-- 🗂 前端组件库 Demo
+#### 🌱 我目前正在进行的工作：
+- 可视化大屏/仪表盘开发 
+- GIS 地图开发 (OpenLayers)
+- Vue3 工程化与组件库体系搭建
+- 微信小程序开发与移动端适配
+
+
+#### 💪 我正在自我挑战的事项：
+- 提升前端可视化叙事能力
+- 深入学习前端 3D 与动画技术
+- 磨练工程化与架构思维
+
+#### :computer: 编程语言与工具：
+<p>
+    <img width="53%" align="right" src="https://github-readme-stats.vercel.app/api?username=chuxinglong&show_icons=true&hide_border=true&locale=cn" alt="kk's github stats"/>
+  
+<code><img width="10%" src="https://skillicons.dev/icons?i=vue"></code>
+<code><img width="10%" src="https://skillicons.dev/icons?i=react"></code>
+<code><img width="10%" src="https://skillicons.dev/icons?i=nodejs"></code>
+<br />
+<code><img width="10%" src="https://skillicons.dev/icons?i=html"></code>
+<code><img width="10%" src="https://skillicons.dev/icons?i=css"></code>
+<code><img width="10%" src="https://skillicons.dev/icons?i=js"></code>
+<br />
+<code><img width="10%" src="https://skillicons.dev/icons?i=ts"></code>
+<code><img width="10%" src="https://skillicons.dev/icons?i=flutter"></code>
+<code><img width="10%" src="https://skillicons.dev/icons?i=express"></code>
+</p>
