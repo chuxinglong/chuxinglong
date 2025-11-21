@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋 I'm kk!
 
-<!--
-**chuxinglong/chuxinglong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a Front-end developer (Vue3)
+- 🌱 Currently exploring animation & visualization
+- ⚡ Fun fact: I like building dashboards
 
-Here are some ideas to get you started:
+![kk's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuxinglong&show_icons=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=vue,react,node.js,express,flutter,ts,js,html,css" />
+
+### 🚀 Featured Projects
+- 🧩 [数字工厂大屏可视化](https://github.com/XIAOK)
+- 📡 数据集成管理系统 (Vue3 + TS)
+- 🗂 前端组件库 Demo
