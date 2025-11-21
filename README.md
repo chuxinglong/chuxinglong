@@ -7,9 +7,9 @@
 ![kk's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuxinglong&show_icons=true)
 
 ### 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=vue,react,Node,express,flutter,ts,js,html,css" />
+<img src="https://skillicons.dev/icons?i=vue,react,Node.js,express,flutter,ts,js,html,css" />
 
 ### 🚀 Featured Projects
-- 🧩 [数字工厂大屏可视化]([https://github.com/XIAOK](https://github.com/chuxinglong/xiaok))
+- 🧩 [数字工厂大屏可视化]([https://github.com/chuxinglong/xiaok])
 - 📡 数据集成管理系统 (Vue3 + TS)
 - 🗂 前端组件库 Demo
