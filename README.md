@@ -7,7 +7,7 @@
 ![kk's GitHub stats](https://github-readme-stats.vercel.app/api?username=chuxinglong&show_icons=true)
 
 ### 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=vue,react,node.js,express,flutter,ts,js,html,css" />
+<img src="https://skillicons.dev/icons?i=vue,react,node,express,flutter,ts,js,html,css" />
 
 ### 🚀 Featured Projects
 - 🧩 [数字工厂大屏可视化](https://github.com/XIAOK)
