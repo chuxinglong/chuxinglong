@@ -6,7 +6,7 @@
 欢迎来到我的 Github 主页！
 我是 **kk**，一名专注于 **Vue · 可视化 · 大数据 · GIS · 小程序 ·** 的前端开发者。
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/chuxinglong/chuxinglong/blob/main/cover_image.png" width="50%" height="auto" />
 
 #### 🌱 我目前正在进行的工作：
 - 可视化大屏/仪表盘开发 
