@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="./cover_image.png" width="100%" alt="褚兴龙的 GitHub 主页封面" />
-
   <h1>你好，我是褚兴龙 👋</h1>
 
   <p>
@@ -76,8 +74,7 @@ GIS 地图应用     OpenLayers + WMS / WFS + WKT + VectorLayer
 
 <div align="center">
   <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=chuxinglong&show_icons=true&hide_border=true&locale=cn&theme=transparent"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuxinglong&theme=github"
     alt="褚兴龙的 GitHub 数据"
   />
 </div>
