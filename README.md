@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>你好，我是褚兴龙 👋</h1>
+  <h1>你好，我是 kk 👋</h1>
 
   <p>
     <strong>前端工程师 · 6 年开发经验</strong><br />
@@ -70,15 +70,15 @@ GIS 地图应用     OpenLayers + WMS / WFS + WKT + VectorLayer
 多端业务开发     PC 管理端 + 微信小程序 + 微信公众号
 ```
 
-## 📈 GitHub 数据
+## 📈 kk 的 GitHub 数据
 
-<div align="center">
+<div align="left">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuxinglong&theme=github"
-    alt="褚兴龙的 GitHub 数据"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chuxinglong&theme=github_dark"
+    alt="kk 的 GitHub 数据"
   />
 </div>
 
-<div align="center">
+<div align="left">
   <sub>保持学习，持续输出。</sub>
 </div>
