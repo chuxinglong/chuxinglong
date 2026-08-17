@@ -74,7 +74,7 @@ GIS 地图应用     OpenLayers + WMS / WFS + WKT + VectorLayer
 
 <div align="left">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chuxinglong&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chuxinglong&theme=github"
     alt="kk 的 GitHub 数据"
   />
 </div>
